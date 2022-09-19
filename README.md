@@ -20,8 +20,8 @@ Another day of learning MERN stack. It is an understatement when I say I was def
 - Invest most of your time learning about creating APIs (possibly get in-person help rather than relying on online resources)
 
 ## SHOUT-OUTS
-I WOULD LOVE TO ACKNOWLEDGE THIS PLAYLIST: 
-https://www.youtube.com/playlist?list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf       by RoadsideCoder FOR INSPIRING AND MENTORING ME TO TAKE ON THIS BEHEMOTH OF A PROJECT. 
+I WOULD LOVE TO ACKNOWLEDGE THIS INCREDIBLE PLAYLIST: 
+https://www.youtube.com/playlist?list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf by RoadsideCoder FOR INSPIRING AND MENTORING ME TO TAKE ON THIS BEHEMOTH OF A PROJECT. 
 
 LIKE ALWAYS, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HAVING MY BACK:
 https://stackoverflow.com/questions/62083771/curl-the-uri-prefix-is-not-recognized
