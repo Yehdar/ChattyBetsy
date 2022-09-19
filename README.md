@@ -1,2 +1,2 @@
-# ChattyBetsy
-MERN-stack Chat Application 
+# WE ARE GETTING THERE!
+
