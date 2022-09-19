@@ -1,5 +1,5 @@
 # THE BEAST IS COWERING!
-Another day of learning MERN stack. It is an understatement when I say I was definitely punching above my weight class for this project. This was the first time I dived extremely deep into backend development and it was certainly an uphill battle. On countless occassions, I wondered if I could even do this? Thankfully, in the end, I pulled through and developed it. That said, there are bugs here and there which I will fix on a later date (DAMN YOU POSTMAN 500 INTERNAL SERVER ERROR)!
+Another day of conquering the MERN stack. Like always, the front-end is relatively easy but the back-end... More specifically, creating APIs and testing if the HTTP requests even work is a serious pain. Regardless, I have made large strides in my goal of learning MERN stack. Frankly, learning MERN from scratch is immensely difficult. I do not want to sugar coat the days and weeks invested into learning it mainly because I do not wish to set ridiculous and false expectiatons for myself and the reader (you). It is difficult, but as the README title suggests, the beast is cowering!
 
 ## DETAILS
 - MERN (MongoDB, ExpressJS, React.JS, NodeJS) Full Stack build
@@ -23,7 +23,7 @@ Another day of learning MERN stack. It is an understatement when I say I was def
 I WOULD LOVE TO ACKNOWLEDGE THIS INCREDIBLE PLAYLIST: 
 https://www.youtube.com/playlist?list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf by RoadsideCoder FOR INSPIRING AND MENTORING ME TO TAKE ON THIS BEHEMOTH OF A PROJECT. 
 
-LIKE ALWAYS, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HAVING MY BACK:
+LIKE ALWAYS, I WOULD TO THANK ALL THE FOLLOWING STACK OVERFLOW FORUMS FOR HAVING MY BACK:
 https://stackoverflow.com/questions/62083771/curl-the-uri-prefix-is-not-recognized
 https://stackoverflow.com/questions/2710748/run-curl-commands-from-windows-console
 https://stackoverflow.com/questions/60795033/connect-econnrefused-in-postman
