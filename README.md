@@ -1,3 +1,37 @@
+# THE BEAST IS COWERING!
+Another day of learning MERN stack. It is an understatement when I say I was definitely punching above my weight class for this project. This was the first time I dived extremely deep into backend development and it was certainly an uphill battle. On countless occassions, I wondered if I could even do this? Thankfully, in the end, I pulled through and developed it. That said, there are bugs here and there which I will fix on a later date (DAMN YOU POSTMAN 500 INTERNAL SERVER ERROR)!
+
+## DETAILS
+- MERN (MongoDB, Express, React, NodeJS) Full Stack build
+- Heroku as host
+- Socket.io for real-time comms between user and server
+- React.JS' Chakra UI for developing the front-end
+- Postman to test APIs
+- ExpressJS for the web framework
+- MongoDB as database
+- NodeJS for server-side scripting
+- JWT tokens and Bcrypt algos for user security protocols
+
+## DRAWBACKS
+- I still suck a lot at testing APIs (or maybe creating APIs). As such, the application run too well...
+- Postman's 500 Internal server error is still a huge bug for me that I am struggling immensely to solve
+
+## TAKEAWAYS
+- Invest most of your time learning about creating APIs
+
+## SHOUT-OUTS
+I WOULD LOVE TO ACKNOWLEDGE THIS playlist: 
+https://www.youtube.com/playlist?list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf by RoadsideCoder FOR INSPIRING AND MENTORING ME TO TAKE ON THIS BEHEMOTH OF A PROJECT. 
+
+LIKE ALWAYS, I WOULD TO THANK ALL THESE STACK OVERFLOW FORUMS FOR HAVING MY BACK:
+https://stackoverflow.com/questions/62083771/curl-the-uri-prefix-is-not-recognized
+https://stackoverflow.com/questions/2710748/run-curl-commands-from-windows-console
+https://stackoverflow.com/questions/60795033/connect-econnrefused-in-postman
+https://stackoverflow.com/questions/4075287/node-express-eaddrinuse-address-already-in-use-kill-server
+https://stackoverflow.com/questions/64029248/postman-connect-econnrefused-127-0-0-18080
+https://stackoverflow.com/questions/45367298/could-not-proxy-request-pusher-auth-from-localhost3000-to-http-localhost500
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
