@@ -13,11 +13,11 @@ Another day of learning MERN stack. It is an understatement when I say I was def
 - JWT tokens and Bcrypt algos for user security protocols
 
 ## DRAWBACKS
-- I still suck a lot at testing APIs (or maybe creating APIs). As such, the application run too well...
+- I still suck a lot at testing APIs (or maybe creating APIs). As such, the application does not run too well...
 - Postman's 500 Internal server error is still a huge bug for me that I am struggling immensely to solve
 
 ## TAKEAWAYS
-- Invest most of your time learning about creating APIs
+- Invest most of your time learning about creating APIs (possibly get in-person help rather than relying on online resources)
 
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS playlist: 
