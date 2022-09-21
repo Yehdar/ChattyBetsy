@@ -17,7 +17,7 @@ Another day of conquering the MERN stack. Like always, the front-end is relative
 - Postman's 500 Internal server error is still a huge bug for me that I am struggling immensely to solve
 
 ## TAKEAWAYS
-- Invest most of your time become MUCH MORE efficient at constructing APIs (possibly get in-person help rather than relying on online resources)
+- Invest most of your time into being MUCH MORE efficient at constructing APIs (possibly get in-person help rather than relying on online resources)
 
 ## SHOUT-OUTS
 I WOULD LOVE TO ACKNOWLEDGE THIS INCREDIBLE PLAYLIST: 
