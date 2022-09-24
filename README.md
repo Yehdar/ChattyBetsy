@@ -3,7 +3,6 @@ Another day of conquering the MERN stack. Like always, the front-end is relative
 
 ## DETAILS
 - MERN (MongoDB, ExpressJS, React.JS, NodeJS) Full Stack build
-- Heroku as host
 - Socket.io for real-time comms between user and server
 - React.JS' Chakra UI for developing the front-end
 - Postman to test APIs
@@ -13,7 +12,7 @@ Another day of conquering the MERN stack. Like always, the front-end is relative
 - JWT tokens and Bcrypt algos for user security protocols
 
 ## DRAWBACKS
-- I still suck a lot at testing APIs (or maybe creating APIs). As such, the application does not run too well...
+- I still suck a lot at properly creating APIs (it's very scuffed). As such, the application does not run too well...
 - Postman's 500 Internal server error is still a huge bug for me that I am struggling immensely to solve
 
 ## TAKEAWAYS
